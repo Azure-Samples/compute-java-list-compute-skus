@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Compute
-platforms: java
-author: yaohaizh
+extensions:
+- services: Compute
+- platforms: java
 ---
 
-## Getting Started with Compute - List Compute Skus - in Java ##
+# Getting Started with Compute - List Compute Skus - in Java #
 
 
   Azure Compute sample for managing Compute SKUs -
