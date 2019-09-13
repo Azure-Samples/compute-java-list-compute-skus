@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Compute
-- platforms: java
+description: "Azure Compute sample for managing Compute SKUs"
+urlFragment: compute-java-list-compute-skus
 ---
 
 # Getting Started with Compute - List Compute Skus - in Java #
