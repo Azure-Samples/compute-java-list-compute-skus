@@ -24,11 +24,11 @@ To run this sample:
 
 Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-libraries-for-java/blob/master/AUTH.md).
 
-    git clone https://github.com/Azure-Samples/compute-java-list-compute-skus.git
-
-    cd compute-java-list-compute-skus
-
-    mvn clean compile exec:java
+```bash
+git clone https://github.com/Azure-Samples/compute-java-list-compute-skus.git
+cd compute-java-list-compute-skus
+mvn clean compile exec:java
+```
 
 ## More information ##
 
