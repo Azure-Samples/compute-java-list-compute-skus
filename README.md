@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Compute
-  platforms: java
+- services: Compute
+- platforms: java
 ---
 
 # Getting Started with Compute - List Compute Skus - in Java #
